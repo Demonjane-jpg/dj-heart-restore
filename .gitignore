@@ -1,0 +1,24 @@
+# Publish allowlist: local profiles, credentials, logs, and backups stay out.
+*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/dj-heart-restore.js
+!/dj-heart-restore.test.cjs
+!/Spicetify-Common.ps1
+!/Install-DJHeartRestore.ps1
+!/Disable-DJHeartRestore.ps1
+!/Start-DJHeartRestore.ps1
+!/Set-PinkSpotifyIcon.ps1
+!/assets/
+/assets/*
+!/assets/spotify-pink.svg
+!/assets/spotify-pink.png
+!/assets/spotify-pink.ico
+!/assets/NOTICE.md
+!/assets/LICENSE.spicetify.txt
+!/.github/
+/.github/*
+!/.github/workflows/
+/.github/workflows/*
+!/.github/workflows/checks.yml
