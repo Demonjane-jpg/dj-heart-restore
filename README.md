@@ -1,6 +1,6 @@
 # DJ Heart Restore
 
-A lightweight Spicetify extension that restores an always-visible heart beside the currently playing song, including Spotify AI DJ sessions.
+Built specifically for Spotify AI DJ. When Spotify hides the **Add to Liked Songs** button during a DJ session, DJ Heart Restore puts an always-visible heart beside the current track in the bottom-left Now Playing area.
 
 Click the outlined heart to save the **actual current Spotify track to Liked Songs**. Click the green heart to remove it. The extension verifies Spotify's library state before updating the heart. No custom playlists, local favorites list, external servers, tracking, or runtime dependencies.
 
